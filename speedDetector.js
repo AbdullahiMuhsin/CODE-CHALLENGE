@@ -27,4 +27,4 @@ function speedDetector(speedInput){
 return response; // this funton has this response as a return based on the condition it has gone from the top
 }
 
-console.log(speedDetector(150))
+console.log(speedDetector(89))
